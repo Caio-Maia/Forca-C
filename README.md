@@ -12,4 +12,4 @@ Foi feito usando Windows e Dev-C++.
   <li>Profissões</li>
 </ul>
 
-Por: <a href="github.com/jordan-maia" target="_blank">Caio Maia</a>
+Por: <a href="https://github.com/jordan-maia" target="_blank">Caio Maia</a>
